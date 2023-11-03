@@ -5,7 +5,7 @@ This is an image I've created for use in my other docker images. I base my final
 # Build locally
 
 `sh
-docker build -t noneabove1182/nvidia-runtime-docker:11.8.0-runtime-ubuntu22.04 .
+docker build -t noneabove1182/nvidia-runtime-docker:12.1.1-runtime-ubuntu22.04-535.129 .
 `
 
 Prebuilt images can be found here:
